@@ -133,7 +133,8 @@ body a:hover {
   color: #00AAEC;
 }
 
-.nav {
+.nav,
+.footer {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -289,13 +290,6 @@ body a:hover {
 
 .information {
   margin-left: 30px;
-}
-
-.footer {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 0 5px;
 }
 
 .footer h2 a {
