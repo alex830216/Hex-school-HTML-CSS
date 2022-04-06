@@ -165,14 +165,14 @@ body a:hover {
 .banner {
   background-image: url(https://raw.githubusercontent.com/hexschool/HTMLHWSource/master/singlePage/banner.png);
   display: block;
-  width: 1002px;
+  width: 100%;
   height: 346px;
   position: relative;
 }
 
 .banner-content {
   position: absolute; 
-  width: 1002px;
+  width: 100%;
   top: 90px;
   color: #fff;
   font-size: 36px;
