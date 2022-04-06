@@ -62,7 +62,7 @@ table {
 /* 字體粗體 */
 .nav a, .social-media a, 
 .banner-content,
-.course-item h2,
+.course-item h3,
 .course-difference h2,
 .course th {
   font-weight: bold;
@@ -70,7 +70,7 @@ table {
 
 /* 字體置中 */
 .course-item img,
-.course-item h2,
+.course-item h3,
 .course-difference h2,
 .customer-information h2 {
   text-align: center;
@@ -198,7 +198,7 @@ body a:hover {
   width: 100%;
 }
 
-.course-item h2 {
+.course-item h3 {
   font-size: 18px;
   margin-bottom: 5px;
 }
