@@ -235,8 +235,7 @@ body a:hover {
   background: linear-gradient(#00654a, #009972);
 }
 
-.customer-information h2,
-.customer-information label,
+.customer-information,
 .customer-information .submit-btn {
   color: #fff;
 }
